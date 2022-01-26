@@ -80,6 +80,7 @@
         "prettier"
       ],
       "rules": {
+        "jsx-a11y/label-has-associated-control": "off",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/explicit-module-boundary-types": "off",
         "no-use-before-define": [
